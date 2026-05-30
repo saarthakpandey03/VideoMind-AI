@@ -100,6 +100,7 @@ while True:
 
             Give an easy and understandable answer
             {user}
+            if answer is not in context, say "I don't know"
 
             at last you should give some suggestiona and recommended question related to context '''
     
